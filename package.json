@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@iconify-json/fluent-emoji-flat": "^1.2.6",
+    "@iconify-json/lucide": "^1.2.129",
+    "vitepress": "2.0.0-alpha.19"
+  },
+  "scripts": {
+    "bs:dev": "vitepress dev",
+    "bs:build": "vitepress build",
+    "bs:preview": "vitepress preview"
+  }
+}

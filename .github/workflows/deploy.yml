@@ -1,4 +1,4 @@
-name: Deploy howebenhowe site to Pages
+name: Deploy bigshadows website to Pages
 
 on:
   push:
@@ -19,25 +19,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-   - name: Checkout
+      - name: Checkout
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-       - uses: pnpm/action-setup@v4
-         with:
+      - uses: pnpm/action-setup@v4
+        with:
            version: 9
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
           node-version: 24
-          cache: pnpm # or pnpm / yarn
-      - name: Cache VitePress
-        uses: actions/cache@v4
-        with:
-          path: docs/.vitepress/cache
-          key: ${{ runner.os }}-vitepress-${{ hashFiles('docs/**', 'package-lock.json', 'pnpm-lock.yaml', 'yarn.lock', 'bun.lockb') }}
-          restore-keys: |
-            ${{ runner.os }}-vitepress-
+          cache: pnpm
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
@@ -47,7 +40,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
+          path: .vitepress/dist
   deploy:
     environment:
       name: github-pages

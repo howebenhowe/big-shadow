@@ -5,6 +5,16 @@ hero:
   text: "A creative prose writing workshop"
 ---
 
+::: warning FIRST MEETING 9/9/2026
+The notice is very short, but so is the piece we're working on--a mere 8 pages soaking wet.
+
+We have it from Layla, donor #1! You can find both PDF and .docx (MS Word) versions of their piece at [this meeting's shared folder][shared-folder].
+
+Please ask me at [howebenhowe@proton.me][email-ben] for the password to the folder.
+
+For lack of time to prepare, this first workshop will be a lighthearted approximation of the format below. If any of you have the enthusiasm to take up the vanguard role, let me know. Othewrise I'll have an abridged itinerary ready.
+:::
+
 ## format
 
 Bigshadow, crudely, follows the Iowa model. The writer on the table should keep largely mum. Laughter is tolerated as well as prophylaxis like: "This is interesting conversation, but its direction is moot to my purposes." Workshops propel in proportion to the candor and commitment of participant criticism. They are diminished by performance and equivocation. So! Disagree thoughtfully and unabashedly.
@@ -21,7 +31,7 @@ Every workshop, there will be five people with named roles. I will not relinquis
 
 **Agitator:** one person // reviews vanguardians' material & assembles a response extending, contradicting, departing, or complicating it
 
-**Hoi Polloi** the other two to four // line edits optional // two careful readings expected
+**Hoi Polloi** the other two to four // line edits optional // expected to have read closely
 
 ### cues
 
@@ -55,3 +65,6 @@ Someone else has always done it better. Or at least well. Or so poorly that the 
 Ben Howe // howebenhowe@proton.me
 
 Please let me know what you can't eat. I already know I won't be able to sit still if there's someone hungry in my home.
+
+[shared-folder]: https://drive.proton.me/urls/8SP4XNJ8GC#p2OjOIntdNar
+[email-ben]: mailto:howebenhowe@proton.me

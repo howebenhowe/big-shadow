@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-	title: "Big Shadows",
+	title: "Big Shadow",
 	description: "A creative writing workshop",
 	themeConfig: {
 		nav: [

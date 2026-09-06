@@ -1,13 +1,13 @@
 ---
 layout: home
 hero:
-  name: "Big Shadows"
+  name: "Big Shadow"
   text: "A creative prose writing workshop"
 ---
 
 ## format
 
-Bigshadows, crudely, follows the Iowa model. The writer on the table should keep largely mum. Laughter is tolerated as well as prophylaxis like: "This is interesting conversation, but its direction is moot to my purposes." Workshops propel in proportion to the candor and commitment of participant criticism. They are diminished by performance and equivocation. So! Disagree thoughtfully and unabashedly.
+Bigshadow, crudely, follows the Iowa model. The writer on the table should keep largely mum. Laughter is tolerated as well as prophylaxis like: "This is interesting conversation, but its direction is moot to my purposes." Workshops propel in proportion to the candor and commitment of participant criticism. They are diminished by performance and equivocation. So! Disagree thoughtfully and unabashedly.
 
 ### roles
 

@@ -5,6 +5,9 @@ hero:
   text: "A creative prose writing workshop"
 ---
 
+::: warning SEE YOU ALL 6PM TOMORROW, WED 9/9!
+:::
+
 ::: warning FIRST MEETING 9/9/2026
 The notice is very short, but so is the piece we're working on--a mere 8 pages soaking wet.
 

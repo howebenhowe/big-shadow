@@ -5,17 +5,18 @@ hero:
   text: "A creative prose writing workshop"
 ---
 
-::: warning SEE YOU ALL 6PM TOMORROW, WED 9/9!
-:::
+::: warning next meeting 10/1/2026
+Avi is contributing; he'll have it up before long and I'll upload it to [the shared folder][shared-folder].
 
-::: warning FIRST MEETING 9/9/2026
-The notice is very short, but so is the piece we're working on--a mere 8 pages soaking wet.
+As always, ask me at [howebenhowe@proton.me][email-ben] for the password to the folder.
 
-We have it from Layla, donor #1! You can find both PDF and .docx (MS Word) versions of their piece at [this meeting's shared folder][shared-folder].
+As attendance works out in the next couple days, a few people will have some prep to do before next meeting.
 
-Please ask me at [howebenhowe@proton.me][email-ben] for the password to the folder.
+If you feel called to guard the van or agitate per the roles outlined in the format below, send me an email or a text about it. For now:
 
-For lack of time to prepare, this first workshop will be a lighthearted approximation of the format below. If any of you have the enthusiasm to take up the vanguard role, let me know. Othewrise I'll have an abridged itinerary ready.
+- **Donor:** Avi
+- **Vanguard:** ?? and ??
+- **Agitator:** ??
 :::
 
 ## format

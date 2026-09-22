@@ -17,11 +17,12 @@ If you feel called to guard the van or agitate per the roles outlined in the for
 - **Donor:** Avi
 - **Vanguard:** ?? and ??
 - **Agitator:** ??
+
 :::
 
 ## format
 
-Bigshadow, crudely, follows the Iowa model. The writer on the table should keep largely mum. Laughter is tolerated as well as prophylaxis like: "This is interesting conversation, but its direction is moot to my purposes." Workshops propel in proportion to the candor and commitment of participant criticism. They are diminished by performance and equivocation. So! Disagree thoughtfully and unabashedly.
+Bigshadow, crudely, follows the [Iowa model][iowa-model]. The writer on the table should keep largely mum. Laughter is tolerated as well as prophylaxis like: "This is interesting conversation, but its direction is moot to my purposes." Workshops propel in proportion to the candor and commitment of participant criticism. They are diminished by performance and equivocation. So! Disagree thoughtfully and unabashedly.
 
 ### roles
 
@@ -66,9 +67,10 @@ Someone else has always done it better. Or at least well. Or so poorly that the 
 
 ## contact
 
-Ben Howe // howebenhowe@proton.me
+Ben Howe // <howebenhowe@proton.me>
 
 Please let me know what you can't eat. I already know I won't be able to sit still if there's someone hungry in my home.
 
 [shared-folder]: https://drive.proton.me/urls/8SP4XNJ8GC#p2OjOIntdNar
+[iowa-model]: https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/teachers/workshop_creative_writing_guide/the_iowa_model.html
 [email-ben]: mailto:howebenhowe@proton.me

@@ -15,7 +15,7 @@ As attendance works out in the next couple days, a few people will have some pre
 If you feel called to guard the van or agitate per the roles outlined in the format below, send me an email or a text about it. For now:
 
 - **Donor:** Avi
-- **Vanguard:** ?? and ??
+- **Vanguard:** Layla and ??
 - **Agitator:** ??
 
 :::

@@ -5,19 +5,18 @@ hero:
   text: "A creative prose writing workshop"
 ---
 
-::: warning next meeting 10/1/2026
-Avi is contributing; he'll have it up before long and I'll upload it to [the shared folder][shared-folder].
+::: danger 2026/10/1
 
+# notice: abridged format
+
+What you can read under the word "format" below is an aspirational and developing scheme for a workshop. I'm working on it.
+
+What's essential is that we've all closely read [Avi's piece][shared-folder] once--ideally twice--and that we sit eager to help Avi develop the piece further.
+
+We will be: Sascha &bull; Ivy &bull; Lindsey &bull; Jenna &bull; Layla &bull; Ben &bull; Anjali &bull; Avi &bull; Katherine
+
+If your name isn't in that list, but you thought you were coming to my home, you still sure can. Please call me or email me.
 As always, ask me at [howebenhowe@proton.me][email-ben] for the password to the folder.
-
-As attendance works out in the next couple days, a few people will have some prep to do before next meeting.
-
-If you feel called to guard the van or agitate per the roles outlined in the format below, send me an email or a text about it. For now:
-
-- **Donor:** Avi
-- **Vanguard:** Layla and ??
-- **Agitator:** ??
-
 :::
 
 ## format

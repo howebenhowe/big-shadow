@@ -11,12 +11,11 @@ hero:
 
 What you can read under the word "format" below is an aspirational and developing scheme for a workshop. I'm working on it.
 
-What's essential is that we've all closely read [Avi's piece][shared-folder] once--ideally twice--and that we sit eager to help Avi develop the piece further.
+What's essential is that we've all closely read [Rowan's piece][shared-folder] once--ideally twice--and that we sit eager to help Rowan develop the piece further.
 
-We will be: Sascha &bull; Ivy &bull; Lindsey &bull; Jenna &bull; Layla &bull; Ben &bull; Anjali &bull; Avi &bull; Katherine
+For the password to the folder, email me: [howebenhowe@proton.me][email-ben].
 
-If your name isn't in that list, but you thought you were coming to my home, you still sure can. Please call me or email me.
-As always, ask me at [howebenhowe@proton.me][email-ben] for the password to the folder.
+List of participants TBD! By which I mean, if you're reading this and interested, hit me up at the email above or call me, if you have my number.
 :::
 
 ## format
@@ -70,6 +69,6 @@ Ben Howe // <howebenhowe@proton.me>
 
 Please let me know what you can't eat. I already know I won't be able to sit still if there's someone hungry in my home.
 
-[shared-folder]: https://drive.proton.me/urls/BJX50BG3K8#MsbDrqO24ThY
+[shared-folder]: https://drive.proton.me/urls/HCCFDM125M#zfyqPhtlN52J
 [iowa-model]: https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/teachers/workshop_creative_writing_guide/the_iowa_model.html
 [email-ben]: mailto:howebenhowe@proton.me

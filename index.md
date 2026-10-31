@@ -5,9 +5,9 @@ hero:
   text: "A creative prose writing workshop"
 ---
 
-::: danger 2026/10/1
+::: warning 10/31/2026
 
-# notice: abridged format
+# evolving format
 
 What you can read under the word "format" below is an aspirational and developing scheme for a workshop. I'm working on it.
 

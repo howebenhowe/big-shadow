@@ -15,7 +15,7 @@ What's essential is that we've all closely read [Rowan's piece][shared-folder] o
 
 For the password to the folder, email me: [howebenhowe@proton.me][email-ben].
 
-List of participants TBD! By which I mean, if you're reading this and interested, hit me up at the email above or call me, if you have my number.
+List of participants TBD! By which I mean, if you're reading this and interested, or know someone else who is, hit me up at the email above or call me, if you have my number.
 :::
 
 ## format
@@ -28,22 +28,18 @@ Every workshop, there will be five people with named roles. I will not relinquis
 
 **Donor:** one person // contributes work two weeks in advance of workshop // indicates passage on which to focus or names a challenging aspect
 
-**Facilitator:** me, Ben // scrounges two reference texts addressing authors' focus // supplies line edits at end of workshop
+**Facilitator:** me, Ben // scrounges two [reference texts](#reference-texts) addressing authors' focus // supplies line edits at end of workshop
 
-**Vanguard:** two people // each optionally in contact with the other // selects a passage (the donor's suggested passage, or another) and focuses criticism on that passage // supplies one reference text which illustrates criticisms // compiles and submits material one week before workshop
-
-**Agitator:** one person // reviews vanguardians' material & assembles a response extending, contradicting, departing, or complicating it
-
-**Hoi Polloi** the other two to four // line edits optional // expected to have read closely
+**Hoi Polloi** the other four to six // expected to have read closely // line edits optional // [3-by-5 notecard](#3-by-5-card) of strengths and weaknesses optional
 
 ### cues
 
-1. arrive to my home, acquaintance, drink if thirsty, paltry snacking, sit
+1. arrive to my home, acquaintance, drink if thirsty, eat
+1. clear food to the console/sideboard/buffet/hutch/credenza/breakfront/étagère
 1. facilitator introduces the work and donor's emphasized passage/aspect, presents two reference texts
-1. vanguard present criticism either jointly or sequentially
-1. agitator responds
+1. those with [3-by-5 cards](#3-by-5-card) present their trim thoughts in turn
 1. open conversation
-1. robust dining, cocktail + beer + wine
+1. cocktail + beer + wine
 
 We will interpolate with constructive interjections, questions, rooftop cigarettes, filling one anothers' glasses, and so on. I will have prepared surplus food.
 
@@ -55,13 +51,21 @@ Session will meet at my home, in the Two Bridges neighborhood. For address, emai
 
 Feel free to solicit anyone's interest in this workshop, pass them my contact information, or a link to this website. As host and facilitor, I'll set the list of invitees for every session.
 
-## next workshop
-
-Wednesday, 9/9/2026
-
 ## reference texts
 
 Someone else has always done it better. Or at least well. Or so poorly that the failure makes a sharply defined negative space. Whether good or bad, the reference texts should always illuminate a particular claim so that they can be responded to directly. They should also be very short, say 100 words.
+
+## 3-by-5 card
+
+Hardly my idea, I pulled this from [Jim Nelson's post](https://j-nelson.net/2015/05/three-alternatives-to-the-iowa-writing-workshop-format/), itself describing Transfer Magazine's method:
+
+> Each reader writes on a 3-by-5 card a 1–2 sentence reaction to the story and uses the remaining space to describe its strengths and weaknesses. Use both sides of the card. Then the cards are read to the group verbatim. Readers will learn not to use the watered-down language so often found in a full-page responses (“I really like this piece,” or “This is strong.”) From there, launch into the general discussion.
+
+## next workshop
+
+Workshop meets the first Thursday of the month, unless otherwise specified here.
+
+In this case, Thursday 11/5/2026
 
 ## contact
 
